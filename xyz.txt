@@ -2,3 +2,5 @@ Starting of Code
 GitHub is a Cloud hosted platform which running through internet.
 Git and Github both are Source Code Management(SCM) Tool.
 Both are used in ML-OPs.
+Update in b1
+Update in b2
